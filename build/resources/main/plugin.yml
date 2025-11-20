@@ -1,0 +1,13 @@
+name: OldFishingRod
+version: '1.0'
+main: org.doraji.oldFishingRod.OldFishingRod
+api-version: '1.21'
+commands:
+  fishhookspeed:
+    description: 낚싯바늘의 속도를 설정합니다.
+    usage: /fishhookspeed <double>
+    permission: oldfishingrod.admin
+    permission-message: 이 명령어를 사용할 권한이 없습니다.
+permissions:
+  oldfishingrod.admin:
+    default: op
