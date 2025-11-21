@@ -1,3 +1,5 @@
+# [Download on Modrinth](https://modrinth.com/plugin/old-fishing-rod)
+
 # Old Fishing Rod Plugin
 구버전(~1.8.9)의 낚싯대 작동 방식을 구현한 플러그인입니다.
 + ROD SWAPPING의 편의를 위해 검을 드는 속도를 없앴습니다.
